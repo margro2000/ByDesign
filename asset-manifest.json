@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ByDesign/static/css/main.93f627b5.chunk.css",
+    "main.js": "/ByDesign/static/js/main.6757da98.chunk.js",
+    "main.js.map": "/ByDesign/static/js/main.6757da98.chunk.js.map",
+    "runtime-main.js": "/ByDesign/static/js/runtime-main.058170b1.js",
+    "runtime-main.js.map": "/ByDesign/static/js/runtime-main.058170b1.js.map",
+    "static/js/2.e10fab4e.chunk.js": "/ByDesign/static/js/2.e10fab4e.chunk.js",
+    "static/js/2.e10fab4e.chunk.js.map": "/ByDesign/static/js/2.e10fab4e.chunk.js.map",
+    "index.html": "/ByDesign/index.html",
+    "precache-manifest.ca4789fa8beb89921adfe52740371c42.js": "/ByDesign/precache-manifest.ca4789fa8beb89921adfe52740371c42.js",
+    "service-worker.js": "/ByDesign/service-worker.js",
+    "static/css/main.93f627b5.chunk.css.map": "/ByDesign/static/css/main.93f627b5.chunk.css.map",
+    "static/js/2.e10fab4e.chunk.js.LICENSE.txt": "/ByDesign/static/js/2.e10fab4e.chunk.js.LICENSE.txt",
+    "static/media/cartoon_img_boy.png": "/ByDesign/static/media/cartoon_img_boy.8fb94b00.png",
+    "static/media/cat_face.png": "/ByDesign/static/media/cat_face.02a0e1fb.png",
+    "static/media/frog_face.png": "/ByDesign/static/media/frog_face.83626c97.png",
+    "static/media/giraffe_face.png": "/ByDesign/static/media/giraffe_face.9f89e266.png",
+    "static/media/whiteDotV3.png": "/ByDesign/static/media/whiteDotV3.f4795b39.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.058170b1.js",
+    "static/js/2.e10fab4e.chunk.js",
+    "static/css/main.93f627b5.chunk.css",
+    "static/js/main.6757da98.chunk.js"
+  ]
+}
