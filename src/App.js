@@ -41,13 +41,14 @@ class App extends React.Component {
   background={'black'} /* color of background */
 />
 	<BrowserRouter>
-	// <Route exact path="/">
-    // <Redirect to="/MainPage" />
-	// </Route>
-	// <Route exact path="/ByDesign">
-	// <Redirect to="/MainPage" />
-	// </Route>
+	<Route exact path="/">
+    <Redirect to="/MainPage" />
+	</Route>
+	<Route exact path="/ByDesign">
+	<Redirect to="/MainPage" />
+	</Route>
 	<Route path="/ByDesign" component={MainPage}/>
+	<Route path="/MainPage" component={MainPage}/>
 	<Route path="/CreateSessionPage" component={CreateSessionPage}/>
 	<Route path="/JoinSessionPage" component={JoinSessionPage}/>
 	<Route path="/TeamFormation" component={TeamFormation}/>
